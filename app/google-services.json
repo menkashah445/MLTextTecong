@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "879342156617",
+    "project_id": "ml-predication",
+    "storage_bucket": "ml-predication.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:879342156617:android:56fa6d043101485378f898",
+        "android_client_info": {
+          "package_name": "com.menkashah.mlpredication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHowUCcGUo_IF-pjmYddG5m55FBNwxBH8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
